@@ -26,7 +26,7 @@ The project also includes five Linux shell scripts demonstrating system interact
 ## Repository Structure
 
 ```text
-oss-audit-24bai10678/
+oss-audit-24BCG10025/
 ├── README.md
 ├── scripts/
 │   ├── system_identity_report1.sh
